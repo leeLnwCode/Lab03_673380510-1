@@ -1,7 +1,7 @@
 # java-shipment-exercise
 
-แบบฝึกหัด Java OOP — ระบบคำนวณค่าขนส่ง Shipment  
-วิชา Object-Oriented Programming | ปีการศึกษา 2569
+แบบฝึกหัดระบบคำนวณค่าขนส่ง Shipment  
+วิชา CP353002 69_1Principles Of Software Design | ปีการศึกษา 2569
 
 ---
 
